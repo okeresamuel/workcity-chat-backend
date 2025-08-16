@@ -41,7 +41,7 @@ NODE_ENV=development
 PORT=3001
 
 # Database
-dburl=mongodb+srv://okere:<Yourpassword>@cluster0.ljvwzic.mongodb.net/
+dburl=mongodb+srv://okere:Yourpassword@cluster0.ljvwzic.mongodb.net/
 
 # JWT Configuration
 SECREAT=611829e3b6e3b421e9bc57206f198f4b6579fb41589c0c767a3c5ea60a530c6c
